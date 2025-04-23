@@ -39,6 +39,7 @@ Edit `src/main/resources/application.properties` to include:
 
 ```properties
 server.port=9000
+```
 
 ---
 
@@ -46,7 +47,9 @@ server.port=9000
 
 This application is a REST API that contains two endpoints located in a controller class called `HelloWorldController`, under the package:
 
+```
 cat.itacademy.s04.t01.n01.controller
+```
 
 ---
 
